@@ -1,0 +1,5 @@
+strSep = input()
+one = input()
+two = input()
+three = input()
+print(one, two, three, sep=strSep)

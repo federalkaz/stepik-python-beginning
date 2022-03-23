@@ -1,0 +1,5 @@
+monitor_price = int(input())
+system_unit_price = int(input())
+keyboard_price = int(input())
+mouse_price = int(input())
+print(3 * (monitor_price + system_unit_price + keyboard_price + mouse_price))
